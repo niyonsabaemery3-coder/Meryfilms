@@ -1,0 +1,12 @@
+{
+  "name": "MeryFilms",
+  "short_name": "MeryFilms",
+  "description": "Reba filime nziza, byose ahantu hamwe.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0A0908",
+  "theme_color": "#0A0908",
+  "icons": [
+    { "src": "/favicon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }
+  ]
+}
